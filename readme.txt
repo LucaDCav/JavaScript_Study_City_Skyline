@@ -1,0 +1,1 @@
+Module 12 of freecodecamp site on Javascript studies on HTML with CSS - How to use CSS variables to help organizing the webpage styles and reuse them.
